@@ -12,3 +12,10 @@ Sum and difference of two numbers</a>
 <a href="https://www.hackerrank.com/challenges/playing-with-characters/problem">Playing With Characters</a>
 <br>
 <a href="https://www.hackerrank.com/challenges/conditional-statements-in-c/problem">Conditional Statements in C</a>
+<br>
+<a href="https://www.hackerrank.com/challenges/pointer-in-c/problem ">
+Pointers in C</a>
+<br>
+<a href="https://www.hackerrank.com/challenges/for-loop-in-c/problem">
+For Loop in C</a>
+
