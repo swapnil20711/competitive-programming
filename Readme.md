@@ -10,3 +10,5 @@ Sum and difference of two numbers</a>
 <a href="https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem">Sum of Digits of a Five Digit Number</a>
 <br>
 <a href="https://www.hackerrank.com/challenges/playing-with-characters/problem">Playing With Characters</a>
+<br>
+<a href="https://www.hackerrank.com/challenges/conditional-statements-in-c/problem">Conditional Statements in C</a>
