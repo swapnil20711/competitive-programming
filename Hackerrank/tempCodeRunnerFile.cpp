@@ -21,6 +21,7 @@ int main()
             max = a[i];
         }
     }
+    cout << sum;
     cout << sum - max << " " << sum - min;
     return 0;
 }
