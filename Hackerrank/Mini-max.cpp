@@ -1,14 +1,15 @@
 #include <iostream>
+typedef long long ll;
 using namespace std;
 int main()
 {
-    long long int a[5], i = 0, sum = 0;
+    ll a[5], i = 0, sum = 0;
     for (i = 0; i < 5; i++)
     {
         cin >> a[i];
         sum += a[i];
     }
-    long long int min = a[0], max = min;
+    ll min = a[0], max = min;
 
     for (i = 1; i < 5; i++)
     {
