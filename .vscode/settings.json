@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "iostream": "cpp",
-        "SODE.C": "cpp"
+        "SODE.C": "cpp",
+        "random": "cpp"
     }
 }
